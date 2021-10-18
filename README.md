@@ -1,7 +1,7 @@
 ## Olá eu sou Yan Gomes
 
 - 🧑‍🎓 Hoje estou no Ensino Medio Técnico
-- 🧑‍💻 Atualmente estudando JavaScript
+- 🧑‍💻 Atualmente estudando HTML5, CSS3 & JavaScript
 - 📩 Contate-me: yangomesprog@gmail.com
 
 
