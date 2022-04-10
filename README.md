@@ -4,6 +4,7 @@
 - 🧑‍💻 Atualmente estudando HTML5, CSS3 & JavaScript
 - 📩 Contate-me: yangomesprog@gmail.com
 
+- Perfil reativado 09/04/2022
 
 
 
